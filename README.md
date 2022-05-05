@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi, Welcome to my awesome GitHub profile 😎
 
-<!--
-**Danities316/danities316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iam full-stack software developer with a creative problem-solving abilities(using Algorithms and data structures), Ability to work with a high level of detail-orientation. ability to learn new software and technologies quickly, capacity to be flexible and multitask and ability to communicate effectively with team members and leadership staff in English.
 
-Here are some ideas to get you started:
+## Wanna talk to me:👇
+luka316daniel@gmail.com | +234 7035 545 177
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👉 I can use #Javascript #Nodejs #React #python #Django #MongoDB #MySQL to solve programming challenges.
+
+👉 I have use this ☝️ to built 
+ AccountantAlike app(using Reactjs, Redux and styled components)
+
+ TwitsLife app(using python and Twitter API)
+
+ - Twitter Bots(using Python)
+
+ - JavaScript words glossary - definition of JS words (using vinalla JavaScript & API(Nodejs))
+
+👉 I study data structures and algorithms while studying computer science as such I write programs with speed(Time) & space complexity incline.
+
+👉 I can use #Javascript and #Pyrhon for backend and frontend projects
+
+### What to know more😃?
+
+👉 Iam a computer science graduate with bachelor degree from National open University of Nigeria
+
+👉 Currently studying MSc Information technology.
+
+👉 Currently studying Mastering Nodejs
+
+IAM definitely looking for opportunities to develop my skills more.
+
+### REACH out to me so we can discuss more on Joining your team
+
+[Check out my recent Project](https://danities316.github.io/)
