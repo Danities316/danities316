@@ -3,7 +3,7 @@
 Iam full-stack software developer with a creative problem-solving abilities(using Algorithms and data structures), Ability to work with a high level of detail-orientation. ability to learn new software and technologies quickly, capacity to be flexible and multitask and ability to communicate effectively with team members and leadership staff in English.
 
 ## Wanna talk to me:👇
-luka316daniel@gmail.com | +234 7035 545 177
+luka316daniel@gmail.com | +234 7035 545 177 | https://linktr.ee/Danities
 
 
 👉 I can use #Javascript #Nodejs #React #python #Django #MongoDB #MySQL to solve programming challenges.
