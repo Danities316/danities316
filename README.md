@@ -1,4 +1,6 @@
 ## Hi, Welcome to my awesome GitHub profile 😎
+![@drew feig](https://user-images.githubusercontent.com/12422620/187634932-c1bb7079-61b6-498a-8c69-5510038b4961.png)
+
 
 Iam full-stack software developer with a creative problem-solving abilities(using Algorithms and data structures), Ability to work with a high level of detail-orientation. ability to learn new software and technologies quickly, capacity to be flexible and multitask and ability to communicate effectively with team members and leadership staff in English.
 
