@@ -34,5 +34,8 @@ luka316daniel@gmail.com | +234 7035 545 177 | https://linktr.ee/Danities
 IAM definitely looking for opportunities to develop my skills more.
 
 ### REACH out to me so we can discuss more on Joining your team
+📫 You can view my [resume](https://docs.google.com/document/d/1XyaWNFCN4S_FRe7hog7eKSYa59RhK6UNq1SSOLqb7lc/edit?usp=sharing) and contact me by emailing luka316daniel@gmail.com.
+
+
 
 [Check out my recent Project](https://danities316.github.io/)
