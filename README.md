@@ -7,21 +7,9 @@ Iam a Proven Backend Software Engineer with expertise in Node.js, Express, and A
 ## Wanna talk to me:👇
 luka316daniel@gmail.com | +234 7035 545 177 | https://linktr.ee/Danities
 
+With over two years of experience as a Back End Developer, I specialize in building fast, scalable, and reliable web applications and services using Node.js, React, and SQL. I have worked on a variety of projects, ranging from a multi-tenancy sales unit application to an event management system, using popular Node.js frameworks like Express and Nest.js, and front-end technologies like React and template engines.
 
-👉 I can use #Javascript #Nodejs #React #python #Django #MongoDB #MySQL to solve programming challenges.
-
-👉 I have use this ☝️ to built 
- AccountantAlike app(using Reactjs, Redux and styled components)
-
- TwitsLife app(using python and Twitter API)
-
- - Twitter Bots(using Python)
-
- - JavaScript words glossary - definition of JS words (using vinalla JavaScript & API(Nodejs))
-
-👉 I study data structures and algorithms while studying computer science as such I write programs with speed(Time) & space complexity incline.
-
-👉 I can use #Javascript and #Pyrhon for backend and frontend projects
+As a problem solver and a continuous learner, I thrive on taking on complex challenges and collaborating with other developers, project managers, and stakeholders to deliver high-quality solutions on time and within budget. I am passionate about driving innovation and business value with Node.js and React, and I am always eager to explore new technologies and best practices in web development. I am currently a Back End Developer at Enkaare, where I use my skills and expertise to create impactful web applications and services for various clients.
 
 ### What to know more😃?
 
@@ -29,13 +17,11 @@ luka316daniel@gmail.com | +234 7035 545 177 | https://linktr.ee/Danities
 
 👉 Currently studying MSc Information technology.
 
-👉 Currently studying Mastering Nodejs
+👉 Currently studying Typescript & Linux certification
 
 IAM definitely looking for opportunities to develop my skills more.
 
 ### REACH out to me so we can discuss more on Joining your team
-📫 You can view my [resume](https://docs.google.com/document/d/1XyaWNFCN4S_FRe7hog7eKSYa59RhK6UNq1SSOLqb7lc/edit?usp=sharing) and contact me by emailing luka316daniel@gmail.com.
+📫 You can view my [resume](https://docs.google.com/document/d/1wAr6B0OvnZ67T-VRXBIIf4rDRsVKGcvVMGg_wh82YiU/edit?usp=sharing) and contact me by emailing luka316daniel@gmail.com.
 
-
-
-[Check out my recent Project](https://danities316.github.io/)
+[Check out my recent Project](https://linktr.ee/danities)
