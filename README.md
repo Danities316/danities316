@@ -2,7 +2,7 @@
 ![Generate a LinkedIn banner that visually represents backend engineering, Node js, AWS, and Microservices  I want the banner to include subtle icons or abstract representations of these technologies  Also, add a small,](https://github.com/user-attachments/assets/2426f46c-cf9d-4cce-bf06-4960f80fd118)
 
 
-Iam full-stack software developer with a creative problem-solving abilities(using Algorithms and data structures), Ability to work with a high level of detail-orientation. ability to learn new software and technologies quickly, capacity to be flexible and multitask and ability to communicate effectively with team members and leadership staff in English.
+Iam a Proven Backend Software Engineer with expertise in Node.js, Express, and AWS, delivering scalable microservices and cloud-native solutions. Experienced in remote collaboration, driving a 65% increase in system scalability at Enkaare. Seeking to leverage event-driven architecture skills in a remote backend role with innovative teams. I aslo communicate effectively with team members and leadership staff in English.
 
 ## Wanna talk to me:👇
 luka316daniel@gmail.com | +234 7035 545 177 | https://linktr.ee/Danities
