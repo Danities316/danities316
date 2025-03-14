@@ -1,5 +1,5 @@
 ## Hi, Welcome to my awesome GitHub profile 😎
-![@drew feig](https://user-images.githubusercontent.com/12422620/187634932-c1bb7079-61b6-498a-8c69-5510038b4961.png)
+![Generate a LinkedIn banner that visually represents backend engineering, Node js, AWS, and Microservices  I want the banner to include subtle icons or abstract representations of these technologies  Also, add a small,](https://github.com/user-attachments/assets/2426f46c-cf9d-4cce-bf06-4960f80fd118)
 
 
 Iam full-stack software developer with a creative problem-solving abilities(using Algorithms and data structures), Ability to work with a high level of detail-orientation. ability to learn new software and technologies quickly, capacity to be flexible and multitask and ability to communicate effectively with team members and leadership staff in English.
