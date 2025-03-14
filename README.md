@@ -22,6 +22,6 @@ As a problem solver and a continuous learner, I thrive on taking on complex chal
 IAM definitely looking for opportunities to develop my skills more.
 
 ### REACH out to me so we can discuss more on Joining your team
-📫 You can view my [resume](https://docs.google.com/document/d/1wAr6B0OvnZ67T-VRXBIIf4rDRsVKGcvVMGg_wh82YiU/edit?usp=sharing) and contact me by emailing luka316daniel@gmail.com.
+📫 You can view my [resume](https://docs.google.com/document/d/e/2PACX-1vQ9WsOvDLhjtbeL6PAlurqmjey9m1Dka8lm49Y1NagsJTejKIgUEJfyFQ3LVtsdsWYkkaxnMhCZUKg9/pub) and contact me by emailing luka316daniel@gmail.com.
 
 [Check out my recent Project](https://linktr.ee/danities)
